@@ -1,3 +1,6 @@
+# srs-bot: machine-owned SQLite state, per CLAUDE.md's data model
+data.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

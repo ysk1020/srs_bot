@@ -1,5 +1,0 @@
-python-telegram-bot==21.*
-python-frontmatter==1.*
-python-dotenv==1.*
-requests==2.*
-pytest==8.*
