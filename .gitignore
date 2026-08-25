@@ -224,3 +224,5 @@ __marimo__/
 # md files 
 CLAUDE.md
 implementation order.md
+
+.scratch/*
